@@ -1,8 +1,8 @@
 #include <iostream>
-using namespace std;
 
+// This program prints hello message with user's name
 int main() {
-    string name;
-    cin >> name;
-    cout << "Hello world from " << name;
+    std::string name; // user name
+    std::cin >> name;
+    std::cout << "Hello world from " << name;
 }
