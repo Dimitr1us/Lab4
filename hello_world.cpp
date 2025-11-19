@@ -1,6 +1,6 @@
 #include <iostream>
 
-// This program prints hello message with user's name
+// This program prints hello message with user's name.
 int main() {
     std::string name; // user name
     std::cin >> name;
